@@ -24,8 +24,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Contact](#contact)
 
 ### Built With
