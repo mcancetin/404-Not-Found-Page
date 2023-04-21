@@ -1,4 +1,4 @@
-<h1 align="center">{404 Not Found}</h1>
+<h1 align="center">404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -28,12 +28,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-
-<!-- OVERVIEW -->
-
-## Overview
-
-![screenshot](https://github.com/[MCCetin]/[404-Not-Found-Page]/blob/[master]/image.jpg?raw=true)
 
 ### Built With
 
